@@ -3,8 +3,9 @@
 
 int main(){
 
-    test();
-    printf("run success\r\n");
+
+    int n=5;
+    test(n);
     return 0;
 
 }
