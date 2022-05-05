@@ -1,11 +1,11 @@
-#include<stdio.h>
-#include"cbasic.h"
+#include <stdio.h>
+#include "cbasic.h"
+#include "S2.h"
 
-int main(){
+int main()
+{
 
-
-    int n=5;
-    test(n);
+    printf("run here\r\n");
     return 0;
 
 }
