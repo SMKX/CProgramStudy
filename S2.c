@@ -1,3 +1,4 @@
+#include"S2.h"
 #include <stdio.h>
 #include<math.h>
 

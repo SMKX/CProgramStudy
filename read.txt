@@ -1,1 +1,9 @@
 该文件夹用于记录C程序设计（谭浩强）学习的相关程序的实现，并使用git记录，上传到github
+第二章实现函数
+void S2_P35_Q4_1_exchangeAB(int *a,int *b);  //交换变量a,b的值
+int S2_P35_Q4_2_maxvalueinarray(int array[],int n);//获取数组中的最大值
+int *S2_P35_Q4_3_arraysort(int array[],int n);//数组排序
+int S2_P35_Q4_7_mngreatestcommondivisor(int m,int n);//获取m,n的最大公约数
+第三章实现函数
+
+
