@@ -29,6 +29,8 @@
   ],
   "files.associations": {
     "stdio.h": "c",
-    "cbasic.h": "c"
+    "cbasic.h": "c",
+    "s5.h": "c",
+    "s3.h": "c"
   }
 }

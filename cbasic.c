@@ -36,7 +36,7 @@ void myifandswitch(int grade,int value)
                         else 
                             printf("成绩错误，为负数\n");
     else
-        printf("成绩错误，超过100\n");
+        printf("成绩错误,超过100\n");
 
 
     //else语句
