@@ -21,6 +21,17 @@ void S5_P137_Q4_AnalyseStrForBook();//输入一行字符串，分析该字符串
 int S5_P137_Q6_factorial(int n);//用递归实现阶乘
 int S5_P137_Q6_factorialSum1(int n);//用循环实现阶乘和
 第六章实现函数
+int *S6_P165_Q2_sort1(int array[],int n);//冒泡排序法
+int *S6_P165_Q2_sort2(int array[],int n);//选择排序法
+void S6_P165_Q6_YHTriangle(int n);//输出n层杨辉三角形
+void S6_P165_Q8_SaddlePoint(int *array1,int m,int n);//找出数组array1[m][n]中的鞍点，所谓鞍点，即这个点的值是在它所在行最大，在它的所在列最小
+第七章实现函数
+
+
+
+
+
+
 
 
 
